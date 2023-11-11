@@ -1,7 +1,7 @@
 # [Page_Rank.pdf](https://github.com/bilan604/GooglePagerank/blob/main/Page_Rank.pdf)  
 
-Explaining the Google Pagerank algorithm (as conceptualized by Sergio in 1998) and then calculating their ranks with my own method, and the Power and Dense methods.
+MAT167: 5/21/2022 - 5/28/2022  
 
-Developmental timeline: 5/21/2022 - 5/28/2022  
+The goal of the project was to explaining the Google Pagerank algorithm and why it works. To figure that out, I coded a way to calculate the page ranks and used the  Power and Dense methods as well.
 
-There is a seperate repo for the code and documentation. ALSO! The screenshot is a version not containing the teleportation parameter (forgot to update it).
+Note: The teleportation (teleporting away) parameter got cut off in the screenshot for Figure 2 + (1-tp)/n. Please refer to the Jupyter Notebook.
